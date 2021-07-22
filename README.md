@@ -24,7 +24,9 @@ Getting music from the vagalume website and return the original and return the t
  
  
 <h1 id="potugues">Portugues<h1>
+ 
 ## Como usar
+ 
 #### Pesquise pela musica no <a href="https://www.vagalume.com.br/">vagalume<a>
 #### Baixo o arquivo python,
 #### Abra o terminal no diretorio onde o arquivo está salvo,
